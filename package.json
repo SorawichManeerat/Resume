@@ -1,0 +1,26 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "bootstrap": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorawichManeerat/profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorawichManeerat/profile.git"
+  },
+  "homepage": "https://github.com/SorawichManeerat/profile#readme"
+}
