@@ -4,7 +4,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #0817e7;
+  color: #000000;/*Change text color all*/
 }
 
 a {
@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #ff0000;
   overflow-y: auto;
 }
 #header .profile img {
