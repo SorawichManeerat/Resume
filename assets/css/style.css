@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #dd1414;
   text-decoration: none;
 }
 
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #dd1414;
+  border-bottom: 3px solid #149ddd; /*Change head line*/
 }
 @media (min-width: 1024px) {
   #hero {
