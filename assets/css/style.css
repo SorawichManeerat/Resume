@@ -413,7 +413,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: rgb(255, 0, 0);
+  color: #180505; /*Change Education Detail*/
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
@@ -468,7 +468,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #272829;
+  color: #ff0000;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
