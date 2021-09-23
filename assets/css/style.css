@@ -275,7 +275,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #ff0000;
+  background: #149ddd; /*Change section line color*/
   bottom: 0;
   left: 0;
 }
@@ -289,7 +289,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #ff0000;
 }
 .about .content ul {
   list-style: none;
