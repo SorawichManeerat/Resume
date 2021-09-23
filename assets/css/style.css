@@ -215,10 +215,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(255, 0, 0);
+  color: #fff; /*Change base name*/
 }
 #hero p {
-  color: #fff;
+  color: rgb(255, 0, 0);
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
