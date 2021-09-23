@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #ff0000;
   text-decoration: none;
 }
 
@@ -442,7 +442,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #ff0000;
+  border: 2px solid #1f5297; /*Change point color*/
 }
 
 /*--------------------------------------------------------------
