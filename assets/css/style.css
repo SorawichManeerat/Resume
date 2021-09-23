@@ -218,13 +218,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff; /*Change base name*/
 }
 #hero p {
-  color: rgb(255, 0, 0);
+  color: #fff; /*Change P color*/
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 #hero p span {
-  color: #fff;
+  color: #fff; /*Change P span color*/
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd; /*Change head line*/
@@ -255,7 +255,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #ff0000;
 }
 
 .section-title {
