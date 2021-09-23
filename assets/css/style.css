@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #dd1414;
+  color: #149ddd;
   text-decoration: none;
 }
 
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #dd1414;
 }
 
 /* Mobile Navigation */
