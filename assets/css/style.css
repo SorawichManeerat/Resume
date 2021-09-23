@@ -468,12 +468,12 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #ff0000;
+  color: #292727;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #ff0000;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
