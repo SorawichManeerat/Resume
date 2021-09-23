@@ -4,7 +4,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #000000;/*Change text color all*/
+  color: #ff0000;/*Change text color all*/
 }
 
 a {
@@ -473,7 +473,7 @@ section {
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #ff0000;
+  color: #149ddd;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
