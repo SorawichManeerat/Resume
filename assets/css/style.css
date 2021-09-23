@@ -374,7 +374,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #ff0707;
+  color: #180505; /*Change skill detial*/
 }
 .skills .progress .skill .val {
   float: right;
@@ -399,7 +399,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #ff0000;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
