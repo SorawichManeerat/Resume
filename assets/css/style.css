@@ -78,8 +78,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   font-weight: 600;
-  -moz-text-align-last: right;
-  text-align-last: right;
+  -moz-text-align-last: center;
+  text-align-last: center;
   font-family: "Poppins", sans-serif;
 }
 #header .profile h1 a, #header .profile h1 a:hover {
