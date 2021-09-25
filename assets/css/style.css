@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff; /*Change P span color*/
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd; /*Change head line*/
+  border-bottom: 3px solid #fd0000; /*Change head line*/
 }
 @media (min-width: 1024px) {
   #hero {
